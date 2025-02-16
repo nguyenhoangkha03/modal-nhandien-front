@@ -1,0 +1,4 @@
+.webcam-flip {
+    transform: scaleX(-1); /* Lật ảnh lại theo chiều ngang */
+  }
+  
